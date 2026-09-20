@@ -5,6 +5,8 @@ He has been conducting research on Synthetic Aperture Radar (SAR) since 2016, wi
  
 He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo, Japan, where he is working on MIMO-SAR for HRWS imaging and azimuth ambiguity suppression for HRWS-SAR. 
 
+---
+
 ## 🔬 Research Interests
 * 🛰️ Distributed SAR (clock synchronization, satellite formation, DEM generation)
 * 📡 HRWS-SAR (azimuth multichannel, elevation digital beamforming, variable PRI)
