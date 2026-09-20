@@ -14,12 +14,16 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 * ⚡ SAR imaging mode, signal model, and imaging method
 * 🌱 SAR applications for Earth observation (e.g., TomoSAR)
 
+---
+
 ## 🎓 Education/Experience
 * The University of Tokyo, Tokyo, Japan, 2025-present (JSPS Post-Doctoral Fellow)
 * ETH Zürich, Zürich, Switzerland, 2023-2025 (PostDoc)
 * National Key Laboratory of Microwave Imaging, Beijing, China, 2022-2023 (Senior Scientist)
 * University of Chinese Academy of Sciences, Beijing, China, 2017-2022 (Ph.D. of Engineering)
 * Hunan University, Changsha, China, 2013-2017 (B.S. of Engineering)
+
+---
 
 ## 📚 Journals
 
@@ -66,7 +70,6 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 * Guodong Jin, Kaiyu Liu, Dacheng Liu, Da Liang, Heng Zhang, Naiming Ou, **Yanyan Zhang**, Yunkai Deng, Chuang Li, Robert Wang, An Advanced Phase Synchronization Scheme for LT-1, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
 * Chuang Li, Heng Zhang, Yunkai Deng, Robert Wang, Kaiyu Liu, Dacheng Liu, Guodong Jin, **Yanyan Zhang**, Focusing the L-Band Spaceborne Bistatic SAR Mission Data Using a Modified RD Algorithm, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
 
-
 ## 📚 Conferences
 * The Joint PI Meeting of JAXA Earth Observation Missions FY2025
 * IEEE AP-GARSS 2026
@@ -82,6 +85,8 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 * IEEE Radar Conference 2020
 * APSAR 2019
 
+---
+
 ## 🏆 Awards & Honors
 * Grant-in-Aid for JSPS Fellows (25KF0102), 2025/07-2027/04
 * FY 2025 JSPS Postdoctoral Fellowships for Research in Japan (Standard), 2025
@@ -92,6 +97,8 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 * A finalist for the Best Student Paper Award at the IEEE IGARSS, 2021
 * Best bachelor dissertation of Hunan University, 2017
 
+---
+
 ## 📄 Academic Roles
 * Guest editor for Special Issues in **Remote Sensing**
 * IEEE International Conference on Signal Processing and Information Security, TPC, 2026
@@ -100,6 +107,8 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 * Session Chair for IEEE IGARSS 2025
 * Session Co-Chair for EUSAR 2024
 * Invited reviewer for IEEE TGRS/IEEE TIP/IEEE TAES/ IEEE TRS/IEEE JSTARS/IEEE GRSL/IEEE Access/ ISPRS Journal of Photogrammetry and Remote Sensing/Communications Earth and Environment/IEEE Sensors Journal/Remote Sensing/Remote Sensing Letters/IEE Electronics Letters...
+
+---
 
 ## 🔗 Academic Links
 * 💼 **Linkedin:** [Yanyan Zhang](https://www.linkedin.com/in/yanyan-zhang-2b35b4307/)
