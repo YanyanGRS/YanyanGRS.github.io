@@ -3,7 +3,7 @@
 ## 👨‍🔬 Biography
 He has been conducting research on Synthetic Aperture Radar (SAR) since 2016, with a particular focus on system design and signal processing for bistatic and multistatic SAR, as well as high-resolution and wide-swath (HRWS) SAR.
  
-He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo, Japan, where he is working on MIMO-SAR for HRWS imaging and azimuth ambiguity suppression for HRWS-SAR. 
+He is currently a JSPS Post-Doctoral Fellow with Hirose & Natsuaki Laboratory at The University of Tokyo, Tokyo, Japan, where he is working on MIMO-SAR for HRWS imaging and azimuth ambiguity suppression for HRWS-SAR. 
 
 ---
 
