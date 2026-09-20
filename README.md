@@ -20,22 +20,25 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 * Hunan University, Changsha, China, 2013-2017 (B.S. of Engineering)
 
 ## 📚 Journals
-2026
+### 2026
 * **Yanyan Zhang**, Akira Hirose, Wei Cao, Ryo Natsuaki, Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method, *IEEE Transactions on Geoscience and Remote Sensing*, 2026.
 * 
-2025
+### 2025
 * **Yanyan Zhang**, Akira Hirose, Ryo Natsuaki, Virtual Delay-Emission (VDE): An HRWS Imaging Mode for Spaceborne MIMO-SAR, *IEEE Geoscience and Remote Sensing Letters*, 2025.
 * **Yanyan Zhang**, Akira Hirose, Ryo Natsuaki, A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SAR, *IEEE Geoscience and Remote Sensing Letters*, 2025.
 * Lizhi Liu, Pingping Lu, Cheng Xing, **Yanyan Zhang**, Yonghua Cai, Fei Zhao, Bo Li, Liang Li, Aichun Wang, Ning Li, Robert Wang, Yirong Wu, LuTan-1: First Demonstration of Hybrid-Polarimetric Synthetic Aperture Radar-Assessing Application Potentials and Performance Constraints, *Journal of Remote Sensing*, 2025.
+* 
 ### 2024
 * **Yanyan Zhang**, Pingping Lu, Robert Wang, New Insights Into Alternating Transmitting Mode (ATM) for Bistatic Multichannel SAR, *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
 * **Yanyan Zhang**, Junfeng Li, Pingping Lu, Tianyuan Yang, Robert Wang, Demonstration of Phase-Preserving Synchronization RFI Suppression for L-Band Spaceborne Bistatic Interferometric SAR, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024.
 * **Yanyan Zhang**, Junfeng Li, Pingping Lu, Robert Wang, An Advanced Interferometric Baseline Estimation Method (IBEM) for Spaceborne Bistatic SAR, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2024.
 * Junfeng Li, Yonghua Cai, **Yanyan Zhang**, Da Liang, Yijiang Nan, Bo Li, Kaiyu Liu, Robert Wang, RFI Suppression Scheme for Complicated Low-Rank Violation Cases, *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
+* 
 ### 2023
 * **Yanyan Zhang**, Pingping Lu, Robert Wang, An Innovative Link-Free Permanent-C (LFPC) Phase Synchronization Scheme for Distributed SAR, *IEEE Geoscience and Remote Sensing Letters*, 2023.
 * Bo Li, Qingchao Zhao, **Yanyan Zhang**, Da Liang, Wei Wang, Yonghua Cai, Junfeng Li, Pingping Lu, Robert Wang, An Advanced Sparse Multichannel System for Spaceborne DBF-SAR, *IEEE Transactions on Geoscience and Remote Sensing*, 2023.
 * Yonghua Cai, Junfeng Li, Yachao Wang, Qingyue Yang, **Yanyan Zhang**, Yafeng Chen, Pingping Lu, Robert Wang, Detecting and Removing Phase Jitters for the Phase Synchronization of LT-1 Bistatic SAR, *IEEE Geoscience and Remote Sensing Letters*, 2023.
+* 
 ### 2022
 * **Yanyan Zhang**, Fei Zhao, Sheng Chang, Mingliang Liu, Robert Wang, An Innovative Synthetic Aperture Radar Design Method for Lunar Water-ice Exploration, *Remote Sensing*, 2022.
 * **Yanyan Zhang**, Shuo Han, Tiantian Wei, Wei Wang, Yunkai Deng, Guodong Jin, Yongwei Zhang, Robert Wang, First Demonstration of Echo Separation for Orthogonal Waveform Encoding MIMO-SAR Based on Airborne Experiments, *IEEE Transactions on Geoscience and Remote Sensing*, 2022.
@@ -45,13 +48,16 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 * Shuo Han, Yunkai Deng, Qingchao Zhao, Yongwei Zhang, **Yanyan Zhang**, Wei Wang, On Spaceborne DBF-SAR Adopting the Degree of Freedom With NLFM Waveform: Optimization Framework and Simulation, *IEEE Transactions on Geoscience and Remote Sensing*, 2022.
 * Shuohan Cheng, Xilong Sun, Yonghua Cai, Huifang Zheng, Weidong Yu, **Yanyan Zhang**, Sheng Chang, A Joint Azimuth Multichannel Cancellation (JAMC) Antibarrage Jamming Scheme for Spaceborne SAR, *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022.
 * Sheng Chang, Yunkai Deng, **Yanyan Zhang**, Rongxiang Wang, Jinsong Qiu, Wei Wang, Qingchao Zhao, Dacheng Liu, An Advanced Echo Separation Scheme for Space-Time Waveform-Encoding SAR Based on Digital Beamforming and Blind Source Separation, *Remote Sensing*, 2022.
+* 
 ### 2021
 * **Yanyan Zhang**, Sheng Chang, Robert Wang, Yunkai Deng, An Innovative Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR, *IEEE Transactions on Geoscience and Remote Sensing*, 2021.
 * **Yanyan Zhang**, Hao Zhang, Shuai Hou, Yunkai Deng, Weidong Yu, Robert Wang, An Innovative Superpolyhedron (SP) Formation for Multistatic SAR (M-SAR) Interferometry, *IEEE Transactions on Geoscience and Remote Sensing*, 2021.
 * Ce Yang, Naiming Ou, Yunkai Deng, Dacheng Liu, **Yanyan Zhang**, Nan Wang, Robert Wang, Pattern Synthesis Algorithm for Range Ambiguity Suppression in the LT-1 Mission via Sequential Convex Optimizations, *IEEE Transactions on Geoscience and Remote Sensing*, 2021.
 * Peng Li, Fengjun Zhao, Dacheng Liu, Naiming Ou, Chengbo Cao, Xiuqing Liu, **Yanyan Zhang**, Yunkai Deng, Robert Wang, First Demonstration of Hybrid Quad-Pol SAR Based on P-Band Airborne Experiment, *IEEE Transactions on Geoscience and Remote Sensing*, 2021.
+* 
 ### 2020
 * **Yanyan Zhang**, Robert Wang, Wei Wang, Yunkai Deng, An Innovative Multiswath Jump Imaging Mode for Spaceborne SAR, *IEEE Geoscience and Remote Sensing Letters*, 2020.
+* 
 ### 2019
 * **Yanyan Zhang**, Heng Zhang, Naiming Ou, Kaiyu Liu, Da Liang, Yunkai Deng, Robert Wang, First Demonstration of Multipath Effects on Phase Synchronization Scheme for LT-1, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
 * Guodong Jin, Kaiyu Liu, Dacheng Liu, Da Liang, Heng Zhang, Naiming Ou, **Yanyan Zhang**, Yunkai Deng, Chuang Li, Robert Wang, An Advanced Phase Synchronization Scheme for LT-1, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
