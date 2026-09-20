@@ -22,6 +22,7 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 ## 📚 Journals
 2026
 * **Yanyan Zhang**, Akira Hirose, Wei Cao, Ryo Natsuaki, Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method, *IEEE Transactions on Geoscience and Remote Sensing*, 2026.
+* 
 2025
 * **Yanyan Zhang**, Akira Hirose, Ryo Natsuaki, Virtual Delay-Emission (VDE): An HRWS Imaging Mode for Spaceborne MIMO-SAR, *IEEE Geoscience and Remote Sensing Letters*, 2025.
 * **Yanyan Zhang**, Akira Hirose, Ryo Natsuaki, A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SAR, *IEEE Geoscience and Remote Sensing Letters*, 2025.
