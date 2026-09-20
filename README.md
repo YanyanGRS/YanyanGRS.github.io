@@ -17,10 +17,10 @@ He is currently a JSPS Fellow (**東京大学特别研究员**) with Hirose & Na
 ---
 
 ## 🎓 Experience & Education
-* The University of Tokyo, Tokyo, Japan (JSPS Fellow), 2025-present
+* The University of Tokyo, Tokyo, Japan (JSPS Fellow), 2025-Present
 * ETH Zürich, Zürich, Switzerland (PostDoc), 2023-2025 
 * National Key Laboratory of Microwave Imaging, Beijing, China (Senior Scientist), 2022-2023
-* University of Chinese Academy of Sciences, Beijing, China (Ph.D. of Engineering), 2017-2022
+* University of Chinese Academy of Sciences & AIRCAS, Beijing, China (Ph.D. of Engineering), 2017-2022
 * Hunan University, Changsha, China (B.S. of Engineering), 2013-2017
 
 ---
