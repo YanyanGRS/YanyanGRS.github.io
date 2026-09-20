@@ -17,11 +17,11 @@ He is currently a JSPS Post-Doctoral Fellow with [Hirose & Natsuaki Laboratory](
 ---
 
 ## 🎓 Education/Experience
-* The University of Tokyo, Tokyo, Japan, 2025-present (JSPS Post-Doctoral Fellow)
-* ETH Zürich, Zürich, Switzerland, 2023-2025 (PostDoc)
-* National Key Laboratory of Microwave Imaging, Beijing, China, 2022-2023 (Senior Scientist)
-* University of Chinese Academy of Sciences & AIRCAS, Beijing, China, 2017-2022 (Ph.D. of Engineering)
-* Hunan University, Changsha, China, 2013-2017 (B.S. of Engineering)
+* The University of Tokyo, Tokyo, Japan (JSPS Post-Doctoral Fellow), 2025-present
+* ETH Zürich, Zürich, Switzerland (PostDoc), 2023-2025 
+* National Key Laboratory of Microwave Imaging, Beijing, China (Senior Scientist), 2022-2023
+* University of Chinese Academy of Sciences & AIRCAS, Beijing, China (Ph.D. of Engineering), 2017-2022
+* Hunan University, Changsha, China (B.S. of Engineering), 2013-2017
 
 ---
 
