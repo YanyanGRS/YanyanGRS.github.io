@@ -88,7 +88,7 @@ He is currently a JSPS Fellow (**東京大学特别研究员**) with [Hirose & N
 ---
 
 ## 📄 Academic Roles
-* Guest editor for Special Issues of **Remote Sensing**
+* Guest editor for Special Issues of Remote Sensing
 * IEEE International Conference on Signal Processing and Information Security, TPC, 2026
 * IEEE IGARSS, Scientific Committee, 2026
 * IEEE IGARSS, Scientific Committee, 2025
