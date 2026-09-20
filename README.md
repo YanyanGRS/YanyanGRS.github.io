@@ -20,6 +20,7 @@ He is currently a JSPS Post-Doctoral Fellow with The University of Tokyo, Tokyo,
 * Hunan University, Changsha, China, 2013-2017 (B.S. of Engineering)
 
 ## 📚 Journals
+* 
 ### 2026
 * **Yanyan Zhang**, Akira Hirose, Wei Cao, Ryo Natsuaki, Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method, *IEEE Transactions on Geoscience and Remote Sensing*, 2026.
 * 
