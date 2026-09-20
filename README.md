@@ -3,7 +3,7 @@
 ## 👨‍🔬 Biography
 He has been conducting research on Synthetic Aperture Radar (SAR) since 2016, with a particular focus on system design and signal processing for bistatic and multistatic SAR, as well as high-resolution and wide-swath (HRWS) SAR.
  
-He is currently a JSPS Post-Doctoral Fellow with Hirose & Natsuaki Laboratory at The University of Tokyo, Tokyo, Japan, where he is working on MIMO-SAR for HRWS imaging and azimuth ambiguity suppression for HRWS-SAR. 
+He is currently a JSPS Post-Doctoral Fellow with [Hirose & Natsuaki Laboratory](https://www.eis.t.u-tokyo.ac.jp/) at The University of Tokyo, Tokyo, Japan, where he is working on MIMO-SAR for HRWS imaging and azimuth ambiguity suppression for HRWS-SAR. 
 
 ---
 
@@ -88,13 +88,13 @@ He is currently a JSPS Post-Doctoral Fellow with Hirose & Natsuaki Laboratory at
 ---
 
 ## 📄 Academic Roles
-* Guest editor for Special Issues in **Remote Sensing**
+* Guest editor for Special Issues of **Remote Sensing**
 * IEEE International Conference on Signal Processing and Information Security, TPC, 2026
 * IEEE IGARSS, Scientific Committee, 2026
 * IEEE IGARSS, Scientific Committee, 2025
 * Session Chair for IEEE IGARSS 2025
 * Session Co-chair for EUSAR 2024
-* Invited reviewer for IEEE TGRS/IEEE TIP/IEEE TAES/ IEEE TRS/IEEE JSTARS/IEEE GRSL/ISPRS Journal of Photogrammetry and Remote Sensing/Communications Earth & Environment/IEEE Access/IEEE Sensors Journal/Remote Sensing/Remote Sensing Letters/IEE Electronics Letters...
+* Invited reviewer for IEEE TGRS/IEEE TIP/IEEE TAES/IEEE TRS/IEEE JSTARS/IEEE GRSL/ISPRS Journal of Photogrammetry and Remote Sensing/Communications Earth & Environment/IEEE Access/IEEE Sensors Journal/Remote Sensing/Remote Sensing Letters/IEE Electronics Letters...
 
 ---
 
