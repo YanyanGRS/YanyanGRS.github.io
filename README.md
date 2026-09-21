@@ -25,7 +25,7 @@ He is currently a JSPS PostDoc Fellow with Hirose & Natsuaki Laboratory at The U
 
 ---
 
-## 📚 Journals
+## 📚 Journal
 
 ### 2026
 * **Yanyan Zhang**, Akira Hirose, Wei Cao, Ryo Natsuaki, Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method, *IEEE Transactions on Geoscience and Remote Sensing*, 2026.
@@ -70,7 +70,7 @@ He is currently a JSPS PostDoc Fellow with Hirose & Natsuaki Laboratory at The U
 * Guodong Jin, Kaiyu Liu, Dacheng Liu, Da Liang, Heng Zhang, Naiming Ou, **Yanyan Zhang**, Yunkai Deng, Chuang Li, Robert Wang, An Advanced Phase Synchronization Scheme for LT-1, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
 * Chuang Li, Heng Zhang, Yunkai Deng, Robert Wang, Kaiyu Liu, Dacheng Liu, Guodong Jin, **Yanyan Zhang**, Focusing the L-Band Spaceborne Bistatic SAR Mission Data Using a Modified RD Algorithm, *IEEE Transactions on Geoscience and Remote Sensing*, 2019.
 
-## 📚 Conferences
+## 📚 Conference
 * The Joint PI Meeting of JAXA Earth Observation Missions FY2025
 * IEEE AP-GARSS 2026
 * EUSAR 2026
