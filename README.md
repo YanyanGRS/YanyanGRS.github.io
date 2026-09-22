@@ -82,7 +82,7 @@ He is currently a JSPS PostDoc Fellow with Hirose & Natsuaki Laboratory at The U
 * IEEE IGARSS 2023
 * IEEE IGARSS 2022
 * IEEE IGARSS 2021
-* IEEE Radar Conference 2020
+* IEEE Radar Conference (RadarConf20) 2020
 * Asia-Pacific Conference on Synthetic Aperture Radar (APSAR) 2019
 
 ---
