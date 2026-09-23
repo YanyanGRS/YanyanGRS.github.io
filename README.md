@@ -74,15 +74,15 @@ He is currently a JSPS PostDoc Fellow with Hirose & Natsuaki Laboratory at The U
 ## 📚 Conference
 * The Joint PI Meeting of JAXA Earth Observation Missions FY2025
 * IEEE Asia-Pacific Geoscience and Remote Sensing Symposium (AP-GARSS) 2026
-* EUSAR 2026
+* European Conference on Synthetic Aperture Radar (EUSAR) 2026
 * EUSAR 2024
-* European Conference on Synthetic Aperture Radar (EUSAR) 2021
-* IEEE IGARSS 2026
+* EUSAR 2021
+* IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2026
 * IEEE IGARSS 2025
 * IEEE IGARSS 2024
 * IEEE IGARSS 2023
 * IEEE IGARSS 2022
-* IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2021
+* IEEE IGARSS 2021
 * IEEE Radar Conference 2020
 * Asia-Pacific Conference on Synthetic Aperture Radar (APSAR) 2019
 
