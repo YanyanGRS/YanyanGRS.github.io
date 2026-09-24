@@ -55,7 +55,7 @@ He is currently a JSPS PostDoc Fellow with Hirose & Natsuaki Laboratory at The U
 * Shuo Han, Yunkai Deng, Qingchao Zhao, Yongwei Zhang, **Yanyan Zhang**, Wei Wang, [On Spaceborne DBF-SAR Adopting the Degree of Freedom With NLFM Waveform: Optimization Framework and Simulation](https://ieeexplore.ieee.org/abstract/document/9793604), *IEEE Transactions on Geoscience and Remote Sensing*, 2022.
 * Shuohan Cheng, Xilong Sun, Yonghua Cai, Huifang Zheng, Weidong Yu, **Yanyan Zhang**, Sheng Chang, [A Joint Azimuth Multichannel Cancellation (JAMC) Antibarrage Jamming Scheme for Spaceborne SAR](https://ieeexplore.ieee.org/abstract/document/9946302), *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022.
 * Sheng Chang, Yunkai Deng, **Yanyan Zhang**, Rongxiang Wang, Jinsong Qiu, Wei Wang, Qingchao Zhao, Dacheng Liu, [An Advanced Echo Separation Scheme for Space-Time Waveform-Encoding SAR Based on Digital Beamforming and Blind Source Separation](https://www.mdpi.com/2072-4292/14/15/3585), *Remote Sensing*, 2022.
-* Chengcheng Pang, Huachun Zhang, **Yanyan Zhang**, An End-to-End Multi-Scale Lunar Craters Detection Method, *Radar Science and Technology*, 2022.
+* Chengcheng Pang, Huachun Zhang, **Yanyan Zhang**, [An End-to-End Multi-Scale Lunar Craters Detection Method](http://radarst.cnjournals.com/ldkxyjs/ch/reader/view_abstract.aspx?file_no=202201010), *Radar Science and Technology*, 2022.
 
 ### 2021
 * **Yanyan Zhang**, Sheng Chang, Robert Wang, Yunkai Deng, [An Innovative Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR](https://ieeexplore.ieee.org/abstract/document/9513476), *IEEE Transactions on Geoscience and Remote Sensing*, 2021.
