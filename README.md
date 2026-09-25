@@ -9,6 +9,7 @@ He is currently a JSPS PostDoc Fellow with Hirose & Natsuaki Laboratory at The U
 
 ## 🔬 Research Interests
 <img src="Page.png" width="621">
+
 * 🛰️ Distributed SAR (clock synchronization, satellite formation, DEM generation)
 * 📡 HRWS-SAR (azimuth multichannel, elevation digital beamforming, variable PRI)
 * 🌍 MIMO-SAR (orthogonal encoding waveform, echo seperation methods)
