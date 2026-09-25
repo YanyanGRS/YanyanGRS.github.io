@@ -8,6 +8,7 @@ He is currently a JSPS PostDoc Fellow with Hirose & Natsuaki Laboratory at The U
 ---
 
 ## 🔬 Research Interests
+
 * 🛰️ Distributed SAR (clock synchronization, satellite formation, DEM generation)
 * 📡 HRWS-SAR (azimuth multichannel, elevation digital beamforming, variable PRI)
 * 🌍 MIMO-SAR (orthogonal encoding waveform, echo seperation methods)
@@ -19,6 +20,7 @@ He is currently a JSPS PostDoc Fellow with Hirose & Natsuaki Laboratory at The U
 ---
 
 ## 🎓 Experience & Education
+
 * The University of Tokyo, Tokyo, Japan (JSPS PostDoc Fellow), 2025-Present
 * ETH Zürich, Zürich, Switzerland (PostDoc), 2023-2025
 * National Key Laboratory of Microwave Imaging, Beijing, China (Senior Scientist), 2022-2023
