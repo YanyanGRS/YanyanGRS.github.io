@@ -13,7 +13,6 @@ He is currently a JSPS PostDoc Fellow with Hirose & Natsuaki Laboratory at The U
 * 🌍 MIMO-SAR (orthogonal encoding waveform, echo seperation methods)
 * ⚡ SAR imaging systems, signal model, and imaging methods
 * 🌱 SAR applications for Earth observation (e.g., InSAR, TomoSAR)
-### Diagram
 <img src="Page.png" width="621">
 
 ---
