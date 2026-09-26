@@ -93,7 +93,7 @@ He is currently a JSPS PostDoc Fellow with Hirose & Natsuaki Laboratory at The U
 ---
 
 ## 📄 Academic Roles
-* Guest editor for Special Issues of Remote Sensing
+* Guest editors for Remote Sensing
 * IEEE International Conference on Signal Processing and Information Security, TPC, 2026
 * IEEE IGARSS, Scientific Committee, 2026
 * IEEE IGARSS, Scientific Committee, 2025
