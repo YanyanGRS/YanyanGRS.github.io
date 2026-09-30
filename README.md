@@ -13,7 +13,7 @@ He is currently a JSPS PostDoc Fellow with [Hirose & Natsuaki Laboratory](https:
 * 🛰️ Distributed SAR (clock synchronization, satellite formation, DEM generation)
 * 📡 HRWS-SAR (azimuth multichannel, elevation digital beamforming, variable PRI)
 * 🌍 MIMO-SAR (orthogonal encoding waveform, echo seperation methods)
-* ⚡ Advanced SAR imaging systems, signal model, and imaging methods
+* ⚡ SAR imaging systems, signal model, and imaging methods
 * 🌱 SAR applications for Earth observation (e.g., InSAR, TomoSAR)
 
 ---
