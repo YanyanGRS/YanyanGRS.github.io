@@ -85,7 +85,9 @@ He is currently a JSPS PostDoc Fellow with [Hirose & Natsuaki Laboratory](https:
 [Post-processing Method of the Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR](https://ieeexplore.ieee.org/abstract/document/10659618)
 * EUSAR 2021 <br>
 [A Novel High-Resolution and Wide-Swath SAR Imaging Mode](https://ieeexplore.ieee.org/abstract/document/9472737)
-* IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2026
+* IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2026 <br>
+[On Azimuth Fractional Ambiguities caused by Variable PRI in Spaceborne HRWS-SAR]()
+[Azimuth Fractional Ambiguity Suppression in Spaceborne HRWS-SAR]()
 * IEEE IGARSS 2025 <br>
 [A Doppler Frequency Estimation Method for Improved Spaceborne Bistatic Sar Synchronization](https://ieeexplore.ieee.org/abstract/document/11242461)
 [A High-Resolution and Wide-Swath Imaging System for Spaceborne Bistatic SAR](https://ieeexplore.ieee.org/abstract/document/11243384)
