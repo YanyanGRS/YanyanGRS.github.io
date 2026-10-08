@@ -75,7 +75,8 @@ He is currently a JSPS PostDoc Fellow with [Hirose & Natsuaki Laboratory](https:
 ---
 
 ## 📚 Conference
-* The Joint PI Meeting of JAXA Earth Observation Missions FY2025
+* The Joint PI Meeting of JAXA Earth Observation Missions FY2025 <br>
+[Investigation of ALOS-4 L1.2 data]
 * IEEE Asia-Pacific Geoscience and Remote Sensing Symposium (AP-GARSS) 2026 <br>
 [A Concept of Very-Long-Baseline MIMO-SAR]()
 * European Conference on Synthetic Aperture Radar (EUSAR) 2026 <br>
