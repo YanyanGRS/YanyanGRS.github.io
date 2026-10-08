@@ -87,7 +87,7 @@ He is currently a JSPS PostDoc Fellow with [Hirose & Natsuaki Laboratory](https:
 * IEEE IGARSS 2022
 * IEEE IGARSS 2021
 * IEEE Radar Conference 2020
-* Asia-Pacific Conference on Synthetic Aperture Radar (APSAR) 2019<br>
+* Asia-Pacific Conference on Synthetic Aperture Radar (APSAR) 2019 <br>
 [A Unique Satellite Formation of Super-Polyhedron for Multistatic SAR](https://ieeexplore.ieee.org/abstract/document/9048376)
 
 ---
