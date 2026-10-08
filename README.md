@@ -78,32 +78,32 @@ He is currently a JSPS PostDoc Fellow with [Hirose & Natsuaki Laboratory](https:
 * The Joint PI Meeting of JAXA Earth Observation Missions FY2025 <br>
 [*Investigation of ALOS-4 L1.2 data*]()
 * IEEE Asia-Pacific Geoscience and Remote Sensing Symposium (AP-GARSS) 2026 <br>
-[A Concept of Very-Long-Baseline MIMO-SAR]()
+[*A Concept of Very-Long-Baseline MIMO-SAR*]()
 * European Conference on Synthetic Aperture Radar (EUSAR) 2026 <br>
-[Virtual Delay-Emission (VDE): A High-Resolution and Wide-Swath (HRWS) Imaging Mode for Spaceborne MIMO-SAR](https://ieeexplore.ieee.org/document/11677312)
-[A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SAR](https://ieeexplore.ieee.org/document/11720667)
+[*Virtual Delay-Emission (VDE): A High-Resolution and Wide-Swath (HRWS) Imaging Mode for Spaceborne MIMO-SAR*](https://ieeexplore.ieee.org/document/11677312) <br>
+[*A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SAR*](https://ieeexplore.ieee.org/document/11720667)
 * EUSAR 2024 <br>
-[Post-processing Method of the Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR](https://ieeexplore.ieee.org/abstract/document/10659618)
+[*Post-processing Method of the Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR*](https://ieeexplore.ieee.org/abstract/document/10659618)
 * EUSAR 2021 <br>
-[A Novel High-Resolution and Wide-Swath SAR Imaging Mode](https://ieeexplore.ieee.org/abstract/document/9472737)
+[*A Novel High-Resolution and Wide-Swath SAR Imaging Mode*](https://ieeexplore.ieee.org/abstract/document/9472737)
 * IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2026 <br>
-[On Azimuth Fractional Ambiguities caused by Variable PRI in Spaceborne HRWS-SAR]()
-[Azimuth Fractional Ambiguity Suppression in Spaceborne HRWS-SAR]()
+[*On Azimuth Fractional Ambiguities caused by Variable PRI in Spaceborne HRWS-SAR*]() <br>
+[*Azimuth Fractional Ambiguity Suppression in Spaceborne HRWS-SAR*]()
 * IEEE IGARSS 2025 <br>
-[A Doppler Frequency Estimation Method for Improved Spaceborne Bistatic Sar Synchronization](https://ieeexplore.ieee.org/abstract/document/11242461)
-[A High-Resolution and Wide-Swath Imaging System for Spaceborne Bistatic SAR](https://ieeexplore.ieee.org/abstract/document/11243384)
+[*A Doppler Frequency Estimation Method for Improved Spaceborne Bistatic Sar Synchronization*](https://ieeexplore.ieee.org/abstract/document/11242461) <br>
+[*A High-Resolution and Wide-Swath Imaging System for Spaceborne Bistatic SAR*](https://ieeexplore.ieee.org/abstract/document/11243384)
 * IEEE IGARSS 2024 <br>
-[An Advanced Multiaperture Reconstruction Method for Distributed Array SAR](https://ieeexplore.ieee.org/abstract/document/10640601)
+[*An Advanced Multiaperture Reconstruction Method for Distributed Array SAR*](https://ieeexplore.ieee.org/abstract/document/10640601)
 * IEEE IGARSS 2023 <br>
-[An Innovative Link-Free Permanent-C (LFPC) Synchronization Scheme for Distributed MIMO-SAR](https://2023.ieeeigarss.org/view_paper.php?PaperNum=1034#top)
+[*An Innovative Link-Free Permanent-C (LFPC) Synchronization Scheme for Distributed MIMO-SAR*](https://2023.ieeeigarss.org/view_paper.php?PaperNum=1034#top)
 * IEEE IGARSS 2022 <br>
-[Wide-Swath IP-SAR](https://ieeexplore.ieee.org/abstract/document/9883785)
+[*Wide-Swath IP-SAR*](https://ieeexplore.ieee.org/abstract/document/9883785)
 * IEEE IGARSS 2021 <br>
-[An Innovative Push-To-Talk (PTT) Synchronization Scheme for Future Distributed SAR](https://ieeexplore.ieee.org/abstract/document/9553951)
+[*An Innovative Push-To-Talk (PTT) Synchronization Scheme for Future Distributed SAR*](https://ieeexplore.ieee.org/abstract/document/9553951)
 * IEEE Radar Conference 2020 <br>
-[A Quad-Pol SAR Imaging Mode with Sound Azimuth Ambiguity](https://ieeexplore.ieee.org/abstract/document/9266465) 
+[*A Quad-Pol SAR Imaging Mode with Sound Azimuth Ambiguity*](https://ieeexplore.ieee.org/abstract/document/9266465) 
 * Asia-Pacific Conference on Synthetic Aperture Radar (APSAR) 2019 <br>
-[A Unique Satellite Formation of Super-Polyhedron for Multistatic SAR](https://ieeexplore.ieee.org/abstract/document/9048376)
+[*A Unique Satellite Formation of Super-Polyhedron for Multistatic SAR*](https://ieeexplore.ieee.org/abstract/document/9048376)
 
 ---
 
