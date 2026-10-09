@@ -90,7 +90,7 @@ He is currently a JSPS PostDoc Fellow with [Hirose & Natsuaki Laboratory](https:
 [On Azimuth Fractional Ambiguities caused by Variable PRI in Spaceborne HRWS-SAR]() <br>
 [Azimuth Fractional Ambiguity Suppression in Spaceborne HRWS-SAR]()
 * IEEE IGARSS 2025 <br>
-[A Doppler Frequency Estimation Method for Improved Spaceborne Bistatic Sar Synchronization](https://ieeexplore.ieee.org/abstract/document/11242461) <br>
+[A Doppler Frequency Estimation Method for Improved Spaceborne Bistatic SAR Synchronization](https://ieeexplore.ieee.org/abstract/document/11242461) <br>
 [A High-Resolution and Wide-Swath Imaging System for Spaceborne Bistatic SAR](https://ieeexplore.ieee.org/abstract/document/11243384)
 * IEEE IGARSS 2024 <br>
 [An Advanced Multiaperture Reconstruction Method for Distributed Array SAR](https://ieeexplore.ieee.org/abstract/document/10640601)
