@@ -79,14 +79,14 @@ He is currently a JSPS PostDoc Fellow with [Hirose & Natsuaki Laboratory](https:
 [*Investigation of ALOS-4 L1.2 data*]()
 * IEEE Asia-Pacific Geoscience and Remote Sensing Symposium (AP-GARSS) 2026 <br>
 [*A Concept of Very-Long-Baseline MIMO-SAR*]()
-* European Conference on Synthetic Aperture Radar (EUSAR) 2026 <br>
+* EUSAR 2026 <br>
 [*Virtual Delay-Emission (VDE): A High-Resolution and Wide-Swath (HRWS) Imaging Mode for Spaceborne MIMO-SAR*](https://ieeexplore.ieee.org/document/11677312) <br>
 [*A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SAR*](https://ieeexplore.ieee.org/document/11720667)
 * EUSAR 2024 <br>
 [*Post-processing Method of the Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR*](https://ieeexplore.ieee.org/abstract/document/10659618)
 * EUSAR 2021 <br>
 [*A Novel High-Resolution and Wide-Swath SAR Imaging Mode*](https://ieeexplore.ieee.org/abstract/document/9472737)
-* IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2026 <br>
+* IEEE IGARSS 2026 <br>
 [*On Azimuth Fractional Ambiguities caused by Variable PRI in Spaceborne HRWS-SAR*]() <br>
 [*Azimuth Fractional Ambiguity Suppression in Spaceborne HRWS-SAR*]()
 * IEEE IGARSS 2025 <br>
