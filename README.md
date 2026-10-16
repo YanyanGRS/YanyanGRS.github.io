@@ -98,8 +98,8 @@ He is currently a JSPS PostDoc Fellow with [Hirose & Natsuaki Laboratory](https:
 [An Innovative Link-Free Permanent-C (LFPC) Synchronization Scheme for Distributed MIMO-SAR](https://2023.ieeeigarss.org/view_paper.php?PaperNum=1034#top)
 * IEEE IGARSS 2022 <br>
 [Wide-Swath IP-SAR](https://ieeexplore.ieee.org/abstract/document/9883785)
-* IEEE IGARSS 2021 <br>
-[An Innovative Push-To-Talk (PTT) Synchronization Scheme for Future Distributed SAR](https://ieeexplore.ieee.org/abstract/document/9553951)
+* IEEE IGARSS 2021(Ten Student Paper Competition Finalists) <br>
+[An Innovative Push-To-Talk (PTT) Synchronization Scheme for Future Distributed SAR](https://ieeexplore.ieee.org/abstract/document/9553951) 
 * IEEE Radar Conference 2020 <br>
 [A Quad-Pol SAR Imaging Mode with Sound Azimuth Ambiguity](https://ieeexplore.ieee.org/abstract/document/9266465) 
 * Asia-Pacific Conference on Synthetic Aperture Radar (APSAR) 2019 <br>
