@@ -112,6 +112,7 @@ He is currently a JSPS PostDoc Fellow with [Hirose & Natsuaki Laboratory](https:
 * IEEE International Conference on Signal Processing and Information Security, TPC, 2026
 * IEEE IGARSS, Scientific Committee, 2026
 * IEEE IGARSS, Scientific Committee, 2025
+* Session Co-chair for IEEE AP-GARSS, 2026
 * Session Chair for IEEE IGARSS 2025
 * Session Co-chair for EUSAR 2024
 * Invited reviewer for IEEE TGRS/IEEE TIP/IEEE TAES/IEEE TRS/IEEE JSTARS/IEEE GRSL/ISPRS Journal of Photogrammetry and Remote Sensing/Communications Earth & Environment/IEEE Access/IEEE Sensors Journal/Remote Sensing/Remote Sensing Letters/IEE Electronics Letters...
