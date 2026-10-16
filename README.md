@@ -77,7 +77,7 @@ He is currently a JSPS PostDoc Fellow with [Hirose & Natsuaki Laboratory](https:
 ## 📚 Conference
 * The Joint PI Meeting of JAXA Earth Observation Missions FY2025 <br>
 [Investigation of ALOS-4 L1.2 data]()
-* IEEE Asia-Pacific Geoscience and Remote Sensing Symposium (AP-GARSS) 2026 <br>
+* IEEE APGARSS 2026 <br>
 [A Concept of Very-Long-Baseline MIMO-SAR]()
 * EUSAR 2026 <br>
 [Virtual Delay-Emission (VDE): A High-Resolution and Wide-Swath (HRWS) Imaging Mode for Spaceborne MIMO-SAR](https://ieeexplore.ieee.org/document/11677312) <br>
@@ -110,11 +110,11 @@ He is currently a JSPS PostDoc Fellow with [Hirose & Natsuaki Laboratory](https:
 ## 📄 Academic Roles
 * Guest editors for Remote Sensing [[1]](https://www.mdpi.com/journal/remotesensing/special_issues/KNI639048X) [[2]](https://www.mdpi.com/journal/remotesensing/special_issues/1VBYI85MX4)
 * IEEE International Conference on Signal Processing and Information Security, TPC, 2026
-* IEEE IGARSS, Scientific Committee, 2026
-* IEEE IGARSS, Scientific Committee, 2025
-* Session Co-chair for IEEE AP-GARSS, 2026
-* Session Chair for IEEE IGARSS 2025
-* Session Co-chair for EUSAR 2024
+* Scientific Committee, IEEE IGARSS 2026
+* Scientific Committee, IEEE IGARSS 2025
+* Session Co-chair, IEEE APGARSS 2026
+* Session Chair, IEEE IGARSS 2025
+* Session Co-chair, EUSAR 2024
 * Invited reviewer for IEEE TGRS/IEEE TIP/IEEE TAES/IEEE TRS/IEEE JSTARS/IEEE GRSL/ISPRS Journal of Photogrammetry and Remote Sensing/Communications Earth & Environment/IEEE Access/IEEE Sensors Journal/Remote Sensing/Remote Sensing Letters/IEE Electronics Letters...
 
 ---
