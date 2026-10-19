@@ -108,7 +108,7 @@ He has been conducting research on Synthetic Aperture Radar (SAR) since 2016, wi
 ---
 
 ## 📄 Academic Roles
-* Guest editors for Remote Sensing [[1]](https://www.mdpi.com/journal/remotesensing/special_issues/KNI639048X) [[2]](https://www.mdpi.com/journal/remotesensing/special_issues/1VBYI85MX4)
+* Guest editors for Remote Sensing [[1]](https://www.mdpi.com/journal/remotesensing/special_issues/69835F8JKC) [[2]](https://www.mdpi.com/journal/remotesensing/special_issues/1VBYI85MX4) [[3]](https://www.mdpi.com/journal/remotesensing/special_issues/KNI639048X) 
 * IEEE International Conference on Signal Processing and Information Security, TPC, 2026
 * Scientific Committee, IEEE IGARSS 2026
 * Scientific Committee, IEEE IGARSS 2025
