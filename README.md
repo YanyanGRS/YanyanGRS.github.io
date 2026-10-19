@@ -75,10 +75,10 @@ He has been conducting research on Synthetic Aperture Radar (SAR) since 2016, wi
 ---
 
 ## 📚 Conference
-* The Joint PI Meeting of JAXA Earth Observation Missions FY2025 <br>
-[Investigation of ALOS-4 L1.2 data]()
 * IEEE APGARSS 2026 <br>
 [A Concept of Very-Long-Baseline MIMO-SAR]()
+* The Joint PI Meeting of JAXA Earth Observation Missions FY2025 <br>
+[Investigation of ALOS-4 L1.2 data]()
 * EUSAR 2026 <br>
 [Virtual Delay-Emission (VDE): A High-Resolution and Wide-Swath (HRWS) Imaging Mode for Spaceborne MIMO-SAR](https://ieeexplore.ieee.org/document/11677312) <br>
 [A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SAR](https://ieeexplore.ieee.org/document/11720667)
