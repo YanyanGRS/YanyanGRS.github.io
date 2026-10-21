@@ -1,9 +1,9 @@
 <img src="zhang.png" width="191" height="239" alt="**Yanyan Zhang**">
 
 ## 👨‍🔬 Biography
-Dr. Zhang is a JSPS PostDoc Fellow at [Hirose & Natsuaki Laboratory](https://www.eis.t.u-tokyo.ac.jp/), the University of Tokyo, Tokyo, Japan. 
+Dr. Zhang is a JSPS PostDoc Fellow at [the Hirose & Natsuaki Laboratory](https://www.eis.t.u-tokyo.ac.jp/), The University of Tokyo, Tokyo, Japan. He has been conducting research on synthetic aperture radar (SAR) since 2016, with a particular focus on signal processing techniques for bistatic and multistatic SAR, as well as high-resolution wide-swath (HRWS) SAR. His current research focuses on MIMO-SAR for HRWS imaging and azimuth ambiguity suppression for HRWS-SAR.
 
-He has been conducting research on Synthetic Aperture Radar (SAR) since 2016, with a particular focus on signal processing methods for bistatic and multistatic SAR, as well as high-resolution and wide-swath (HRWS) SAR. He is currently working on MIMO-SAR for HRWS imaging and azimuth ambiguity suppression for HRWS-SAR. 
+I welcome opportunities for academic exchange and collaboration in SAR remote sensing. Please feel free to contact me via email [yanyanzhang@eis.t.u-tokyo.ac.jp](#) / [caszyymail@163.com](#) if you are interested.
 
 ---
 
