@@ -87,8 +87,8 @@ Welcome opportunities for academic exchange and collaboration in SAR remote sens
 * EUSAR 2021 <br>
 [A Novel High-Resolution and Wide-Swath SAR Imaging Mode](https://ieeexplore.ieee.org/abstract/document/9472737)
 * IEEE IGARSS 2026 <br>
-[On Azimuth Fractional Ambiguities caused by Variable PRI in Spaceborne HRWS-SAR](#) <br>
-[Azimuth Fractional Ambiguity Suppression in Spaceborne HRWS-SAR](#)
+[On Azimuth Fractional Ambiguities caused by Variable PRI in Spaceborne HRWS-SAR](https://ieeexplore.ieee.org/document/11731253) <br>
+[Azimuth Fractional Ambiguity Suppression in Spaceborne HRWS-SAR](https://ieeexplore.ieee.org/document/11730896)
 * IEEE IGARSS 2025 <br>
 [A Doppler Frequency Estimation Method for Improved Spaceborne Bistatic SAR Synchronization](https://ieeexplore.ieee.org/abstract/document/11242461) <br>
 [A High-Resolution and Wide-Swath Imaging System for Spaceborne Bistatic SAR](https://ieeexplore.ieee.org/abstract/document/11243384)
