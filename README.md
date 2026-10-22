@@ -108,7 +108,10 @@ Welcome opportunities for academic exchange and collaboration in SAR remote sens
 ---
 
 ## 📄 Academic Roles
-* Guest editors for Remote Sensing [[1]](https://www.mdpi.com/journal/remotesensing/special_issues/69835F8JKC) [[2]](https://www.mdpi.com/journal/remotesensing/special_issues/1VBYI85MX4) [[3]](https://www.mdpi.com/journal/remotesensing/special_issues/KNI639048X) 
+* Guest Editor for Special Issues in Remote Sensing <br>
+[[1]](https://www.mdpi.com/journal/remotesensing/special_issues/69835F8JKC) <br>
+[[2]](https://www.mdpi.com/journal/remotesensing/special_issues/1VBYI85MX4) <br>
+[[3]](https://www.mdpi.com/journal/remotesensing/special_issues/KNI639048X) <br>
 * IEEE International Conference on Signal Processing and Information Security, TPC, 2026
 * Scientific Committee, IEEE IGARSS 2026
 * Scientific Committee, IEEE IGARSS 2025
