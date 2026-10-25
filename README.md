@@ -14,7 +14,7 @@ Welcome opportunities for academic exchange and collaboration in SAR remote sens
 * 📡 HRWS-SAR (azimuth multichannel, elevation digital beamforming, variable PRI)
 * 🌍 MIMO-SAR (orthogonal encoding waveform, echo seperation methods)
 * ⚡ SAR imaging systems, signal model, and imaging methods
-* 🌱 SAR applications for Earth observation (e.g., InSAR, TomoSAR)
+* 🌱 SAR applications for Earth and planetary observation (e.g., InSAR, TomoSAR)
 
 ---
 
@@ -134,5 +134,5 @@ Welcome opportunities for academic exchange and collaboration in SAR remote sens
 </div>
 
 <div align="center">
-<i>Exploring advanced SAR technologies for high-precision Earth observation.</i>
+<i>Exploring advanced SAR technologies for high-precision Earth and planetary observation.</i>
 </div>
