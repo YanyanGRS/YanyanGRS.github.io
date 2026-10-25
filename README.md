@@ -119,7 +119,7 @@ Welcome opportunities for academic exchange and collaboration in SAR remote sens
 * Session Co-chair, IEEE APGARSS 2026
 * Session Chair, IEEE IGARSS 2025
 * Session Co-chair, EUSAR 2024
-* Invited reviewer for IEEE TGRS/IEEE TIP/IEEE TAES/IEEE TRS/IEEE JSTARS/IEEE GRSL/ISPRS Journal of Photogrammetry and Remote Sensing/Communications Earth & Environment/IEEE Access/IEEE Sensors Journal/Remote Sensing/Remote Sensing Letters/IEE Electronics Letters...
+* Invited reviewer for IEEE TGRS/IEEE TIP/IEEE TAES/IEEE TRS/ISPRS Journal of Photogrammetry and Remote Sensing/IEEE JSTARS/IEEE GRSL/Communications Earth & Environment/IEEE Access/IEEE Sensors Journal/Remote Sensing/Remote Sensing Letters/IEE Electronics Letters...
 
 ---
 
