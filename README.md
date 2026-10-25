@@ -1,7 +1,7 @@
-<img src="zhang.png" width="191" height="239" alt="**Yanyan Zhang**">
+  <img src="zhang.png" width="191" height="239" alt="**Yanyan Zhang**">
 
 ## 👨‍🔬 Biography
-Dr. Zhang is a JSPS PostDoc Fellow at the [Hirose & Natsuaki Laboratory](https://www.eis.t.u-tokyo.ac.jp/people.html), The University of Tokyo, Tokyo, Japan. He has over 10 years of research experience in synthetic aperture radar (SAR), with a particular focus on signal processing techniques for bistatic and multistatic SAR, as well as high-resolution wide-swath (HRWS) SAR. His current research focuses on MIMO-SAR for HRWS imaging and azimuth ambiguity suppression for HRWS-SAR.
+Dr. Zhang is a JSPS PostDoc Fellow at the [Hirose & Natsuaki Laboratory](https://www.eis.t.u-tokyo.ac.jp/people.html), The University of Tokyo, Tokyo, Japan. He has over 10 years of research experience in Synthetic Aperture Radar (SAR), with a particular focus on signal processing techniques for bistatic and multistatic SAR, as well as high-resolution wide-swath (HRWS) SAR. His current research focuses on MIMO-SAR for HRWS imaging and azimuth ambiguity suppression for HRWS-SAR.
 
 Welcome opportunities for academic exchange and collaboration in SAR remote sensing. Please feel free to contact him via email [yanyanzhang@eis.t.u-tokyo.ac.jp](#) / [caszyymail@163.com](#) if you are interested.
 
@@ -108,11 +108,11 @@ Welcome opportunities for academic exchange and collaboration in SAR remote sens
 ---
 
 ## 📄 Academic Roles
-* Guest Editor for Journal Special Issues <br>
-[1] [NewSpace SAR: Advances in Technologies, Methodologies, and Applications](https://www.mdpi.com/journal/remotesensing/special_issues/1502BCZZAF), 2026/10-2027/06  <br>
-[2] [Remote Sensing Information Acquisition and Intelligent Processing Technology](https://www.mdpi.com/journal/remotesensing/special_issues/69835F8JKC), 2026/10-2027/04  <br>
-[3] [Intelligent Interpretation of Remote Sensing Images and Intelligent Processing of Remote Sensing Information](https://www.mdpi.com/journal/remotesensing/special_issues/1VBYI85MX4), 2025/05-2026/06 <br>
-[4] [Advanced HRWS Spaceborne SAR: System Design and Signal Processing](https://www.mdpi.com/journal/remotesensing/special_issues/KNI639048X), 2024/04-2025/10 <br>
+* Guest Editor for Journal Special Issues: <br>
+[[1] NewSpace SAR: Advances in Technologies, Methodologies, and Applications](https://www.mdpi.com/journal/remotesensing/special_issues/1502BCZZAF), 2026/10-2027/06  <br>
+[[2] Remote Sensing Information Acquisition and Intelligent Processing Technology](https://www.mdpi.com/journal/remotesensing/special_issues/69835F8JKC), 2026/10-2027/04  <br>
+[[3] Intelligent Interpretation of Remote Sensing Images and Intelligent Processing of Remote Sensing Information](https://www.mdpi.com/journal/remotesensing/special_issues/1VBYI85MX4), 2025/05-2026/06 <br>
+[[4] Advanced HRWS Spaceborne SAR: System Design and Signal Processing](https://www.mdpi.com/journal/remotesensing/special_issues/KNI639048X), 2024/04-2025/10 <br>
 * IEEE International Conference on Signal Processing and Information Security, TPC, 2026
 * Scientific Committee, IEEE IGARSS 2026
 * Scientific Committee, IEEE IGARSS 2025
