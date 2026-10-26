@@ -109,10 +109,10 @@ Welcome opportunities for academic exchange and collaboration in SAR remote sens
 
 ## 📄 Academic Roles
 * Guest Editor for Journal Special Issues: <br>
-[[1] NewSpace SAR: Advances in Technologies, Methodologies, and Applications](https://www.mdpi.com/journal/remotesensing/special_issues/1502BCZZAF), 2026/10-2027/06  <br>
-[[2] Remote Sensing Information Acquisition and Intelligent Processing Technology](https://www.mdpi.com/journal/remotesensing/special_issues/69835F8JKC), 2026/10-2027/04  <br>
-[[3] Intelligent Interpretation of Remote Sensing Images and Intelligent Processing of Remote Sensing Information](https://www.mdpi.com/journal/remotesensing/special_issues/1VBYI85MX4), 2025/05-2026/06 <br>
-[[4] Advanced HRWS Spaceborne SAR: System Design and Signal Processing](https://www.mdpi.com/journal/remotesensing/special_issues/KNI639048X), 2024/04-2025/10 <br>
+[1] [NewSpace SAR: Advances in Technologies, Methodologies, and Applications](https://www.mdpi.com/journal/remotesensing/special_issues/1502BCZZAF), 2026/10-2027/06  <br>
+[2] [Remote Sensing Information Acquisition and Intelligent Processing Technology](https://www.mdpi.com/journal/remotesensing/special_issues/69835F8JKC), 2026/10-2027/04  <br>
+[3] [Intelligent Interpretation of Remote Sensing Images and Intelligent Processing of Remote Sensing Information](https://www.mdpi.com/journal/remotesensing/special_issues/1VBYI85MX4), 2025/05-2026/06 <br>
+[4] [Advanced HRWS Spaceborne SAR: System Design and Signal Processing](https://www.mdpi.com/journal/remotesensing/special_issues/KNI639048X), 2024/04-2025/10 <br>
 * TPC, IEEE International Conference on Signal Processing and Information Security, 2026
 * Scientific Committee, IEEE IGARSS 2026
 * Scientific Committee, IEEE IGARSS 2025
