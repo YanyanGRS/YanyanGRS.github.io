@@ -80,18 +80,18 @@ Welcome opportunities for academic exchange and collaboration in SAR remote sens
 * The Joint PI Meeting of JAXA Earth Observation Missions FY2025 <br>
 [Investigation of ALOS-4 L1.2 data](#)
 * EUSAR 2026 <br>
-[Virtual Delay-Emission (VDE): A High-Resolution and Wide-Swath (HRWS) Imaging Mode for Spaceborne MIMO-SAR](https://ieeexplore.ieee.org/document/11677312) <br>
-[A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SAR](https://ieeexplore.ieee.org/document/11720667)
+[1] [Virtual Delay-Emission (VDE): A High-Resolution and Wide-Swath (HRWS) Imaging Mode for Spaceborne MIMO-SAR](https://ieeexplore.ieee.org/document/11677312) <br>
+[2] [A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SAR](https://ieeexplore.ieee.org/document/11720667)
 * EUSAR 2024 <br>
 [Post-processing Method of the Push-To-Talk (PTT) Synchronization Scheme for Distributed SAR](https://ieeexplore.ieee.org/abstract/document/10659618)
 * EUSAR 2021 <br>
 [A Novel High-Resolution and Wide-Swath SAR Imaging Mode](https://ieeexplore.ieee.org/abstract/document/9472737)
 * IEEE IGARSS 2026 <br>
-[On Azimuth Fractional Ambiguities caused by Variable PRI in Spaceborne HRWS-SAR](https://ieeexplore.ieee.org/document/11731253) <br>
-[Azimuth Fractional Ambiguity Suppression in Spaceborne HRWS-SAR](https://ieeexplore.ieee.org/document/11730896)
+[1] [On Azimuth Fractional Ambiguities caused by Variable PRI in Spaceborne HRWS-SAR](https://ieeexplore.ieee.org/document/11731253) <br>
+[2] [Azimuth Fractional Ambiguity Suppression in Spaceborne HRWS-SAR](https://ieeexplore.ieee.org/document/11730896)
 * IEEE IGARSS 2025 <br>
-[A Doppler Frequency Estimation Method for Improved Spaceborne Bistatic SAR Synchronization](https://ieeexplore.ieee.org/abstract/document/11242461) <br>
-[A High-Resolution and Wide-Swath Imaging System for Spaceborne Bistatic SAR](https://ieeexplore.ieee.org/abstract/document/11243384)
+[1] [A Doppler Frequency Estimation Method for Improved Spaceborne Bistatic SAR Synchronization](https://ieeexplore.ieee.org/abstract/document/11242461) <br>
+[2] [A High-Resolution and Wide-Swath Imaging System for Spaceborne Bistatic SAR](https://ieeexplore.ieee.org/abstract/document/11243384)
 * IEEE IGARSS 2024 <br>
 [An Advanced Multiaperture Reconstruction Method for Distributed Array SAR](https://ieeexplore.ieee.org/abstract/document/10640601)
 * IEEE IGARSS 2023 <br>
