@@ -7,6 +7,15 @@ Welcome opportunities for academic exchange and collaboration in SAR remote sens
 
 ---
 
+## 🎓 Education & Experience
+* The University of Tokyo, Tokyo, Japan (JSPS PostDoc Fellow), 2025-Present
+* ETH Zürich, Zürich, Switzerland (PostDoc), 2023-2025
+* National Key Laboratory of Microwave Imaging, Beijing, China (Senior Scientist), 2022-2023
+* University of Chinese Academy of Sciences & AIRCAS, Beijing, China (Ph.D. Degree), 2017-2022
+* Hunan University, Changsha, China (Bachelor Degree), 2013-2017
+
+---
+
 ## 🔬 Research Interests
 <img src="Page.png" width="610">
 
@@ -15,15 +24,6 @@ Welcome opportunities for academic exchange and collaboration in SAR remote sens
 * 🌍 MIMO-SAR (orthogonal encoding waveform, echo seperation methods)
 * ⚡ Advanced SAR imaging systems, signal model, and imaging methods
 * 🌱 SAR applications for Earth and planetary observation (e.g., InSAR, TomoSAR)
-
----
-
-## 🎓 Education & Experience
-* The University of Tokyo, Tokyo, Japan (JSPS PostDoc Fellow), 2025-Present
-* ETH Zürich, Zürich, Switzerland (PostDoc), 2023-2025
-* National Key Laboratory of Microwave Imaging, Beijing, China (Senior Scientist), 2022-2023
-* University of Chinese Academy of Sciences & AIRCAS, Beijing, China (Ph.D. Degree), 2017-2022
-* Hunan University, Changsha, China (Bachelor Degree), 2013-2017
 
 ---
 
