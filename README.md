@@ -20,10 +20,10 @@ Welcome opportunities for academic exchange and collaboration in SAR remote sens
 <img src="Page.png" width="610">
 
 * 🛰️ Distributed SAR (clock synchronization, satellite formation, DEM generation)
-* 📡 HRWS-SAR (azimuth multichannel, elevation digital beamforming, variable PRI)
+* 📡 HRWS-SAR (azimuth multichannel, elevation digital beamforming, variable PRI, F-scan)
 * 🌍 MIMO-SAR (orthogonal encoding waveform, echo seperation methods)
 * ⚡ Advanced SAR imaging systems, signal model, and imaging methods
-* 🌱 SAR applications for Earth/planetary observation (e.g., InSAR, TomoSAR, PolSAR)
+* 🌱 SAR applications for Earth and planetary observation (e.g., InSAR, TomoSAR, PolSAR)
 
 ---
 
