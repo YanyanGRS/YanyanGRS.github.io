@@ -77,10 +77,10 @@ Welcome opportunities for academic exchange and collaboration in SAR remote sens
 ## 📚 Conference
 * The Joint PI Meeting of JAXA Earth Observation Missions FY2026 (2026-11-18) <br>
 [Azimuth Fractional Ambiguity Suppression for Spaceborne HRWS-SAR](#)
-* IEEE APGARSS 2026 <br>
-[A Concept of Very-Long-Baseline MIMO-SAR](#)
 * The Joint PI Meeting of JAXA Earth Observation Missions FY2025 <br>
 [Investigation of ALOS-4 L1.2 data](#)
+* IEEE APGARSS 2026 <br>
+[A Concept of Very-Long-Baseline MIMO-SAR](#)
 * EUSAR 2026 <br>
 [Virtual Delay-Emission (VDE): A High-Resolution and Wide-Swath (HRWS) Imaging Mode for Spaceborne MIMO-SAR](https://ieeexplore.ieee.org/document/11677312) <br>
 [A Sequential Doppler Offset (SDO) Method for Locating Targets Causing Azimuth Fractional Ambiguity in Spaceborne HRWS-SAR](https://ieeexplore.ieee.org/document/11720667)
