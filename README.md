@@ -27,7 +27,7 @@ Welcome opportunities for academic exchange and collaboration in SAR remote sens
 
 ---
 
-## 📚 Journal Publications
+## 📚 Journal
 
 ### 2026
 * **Yanyan Zhang**, Akira Hirose, Wei Cao, Ryo Natsuaki, [Azimuth Resolution Enhancement in MIMO-SAR: Signal Model and Imaging Method](https://ieeexplore.ieee.org/abstract/document/11527408), *IEEE Transactions on Geoscience and Remote Sensing*, 2026.
@@ -74,7 +74,7 @@ Welcome opportunities for academic exchange and collaboration in SAR remote sens
 
 ---
 
-## 📚 Conferences Attended
+## 📚 Conferences
 * The Joint PI Meeting of JAXA Earth Observation Missions FY2026 (2026-11-18) <br>
 [Azimuth Fractional Ambiguity Suppression for Spaceborne HRWS-SAR](#)
 * The Joint PI Meeting of JAXA Earth Observation Missions FY2025 <br>
