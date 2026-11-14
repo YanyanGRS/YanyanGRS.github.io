@@ -74,7 +74,7 @@ Welcome opportunities for academic exchange and collaboration in SAR remote sens
 
 ---
 
-## 📚 Conference
+## 📚 Conferences attended
 * The Joint PI Meeting of JAXA Earth Observation Missions FY2026 (2026-11-18) <br>
 [Azimuth Fractional Ambiguity Suppression for Spaceborne HRWS-SAR](#)
 * The Joint PI Meeting of JAXA Earth Observation Missions FY2025 <br>
