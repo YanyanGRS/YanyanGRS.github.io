@@ -75,9 +75,9 @@ Welcome opportunities for academic exchange and collaboration in SAR remote sens
 ---
 
 ## 📚 Conferences
-* The Joint PI Meeting of JAXA Earth Observation Missions FY2026 (2026-11-18) <br>
+* The Joint PI Meeting of JAXA Earth Observation Missions FY2026 (ALOS-2/-4 Cal/Val and Applications) <br>
 [Azimuth Fractional Ambiguity Suppression for Spaceborne HRWS-SAR](#)
-* The Joint PI Meeting of JAXA Earth Observation Missions FY2025 <br>
+* The Joint PI Meeting of JAXA Earth Observation Missions FY2025 (ALOS-2/-4 Calibration & Validation, Algorithm Development) <br>
 [Investigation of ALOS-4 L1.2 data](#)
 * IEEE APGARSS 2026 <br>
 [A Concept of Very-Long-Baseline MIMO-SAR](#)
