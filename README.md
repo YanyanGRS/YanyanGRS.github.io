@@ -79,7 +79,7 @@ Welcome opportunities for academic exchange and collaboration in SAR remote sens
 [Azimuth Fractional Ambiguity Suppression for Spaceborne HRWS-SAR](#)
 * The Joint PI Meeting of JAXA Earth Observation Missions FY2025 (ALOS-2/-4 Calibration & Validation, Algorithm Development) <br>
 [Investigation of ALOS-4 L1.2 data](#)
-* IEEE APGARSS 2026 <br>
+* IEEE AP-GARSS 2026 <br>
 [A Concept of Very-Long-Baseline MIMO-SAR](#)
 * EUSAR 2026 <br>
 [Virtual Delay-Emission (VDE): A High-Resolution and Wide-Swath (HRWS) Imaging Mode for Spaceborne MIMO-SAR](https://ieeexplore.ieee.org/document/11677312) <br>
@@ -118,7 +118,7 @@ Welcome opportunities for academic exchange and collaboration in SAR remote sens
 * TPC, IEEE International Conference on Signal Processing and Information Security, 2026
 * Scientific Committee, IEEE IGARSS 2026
 * Scientific Committee, IEEE IGARSS 2025
-* Session Co-chair, IEEE APGARSS 2026
+* Session Co-chair, IEEE AP-GARSS 2026
 * Session Chair, IEEE IGARSS 2025
 * Session Co-chair, EUSAR 2024
 * Invited reviewer for IEEE TGRS/IEEE TAES/IEEE JSTARS/IEEE GRSL/IEEE TRS/IEEE TIP/ISPRS Journal of Photogrammetry and Remote Sensing/Communications Earth & Environment/IEEE Access/IEEE Sensors Journal/Remote Sensing/Remote Sensing Letters/IEE Electronics Letters...
